@@ -13,7 +13,7 @@ cd Code
 python main.py --phase test
 You will see the output results in the folder /result.
 
-Besides we also provide a python script in folder /supplement which put our model in GAN as generator, so if you want to test it, just download the PU-GAN's project from https://github.com/liruihui/PU-GAN and replace original generator.py. 
+Besides we also provide a python script in folder /supplement which put our model in GAN as generator, if you want to test it, just download the PU-GAN's project from https://github.com/liruihui/PU-GAN and replace original generator.py. 
 
 If you want training the model please contact us for training dataset by email: qiuchi@stu.hznu.edu.cn.
 More questions please contact qiuchi@stu.hznu.edu.cn
