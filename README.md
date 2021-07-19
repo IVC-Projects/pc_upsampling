@@ -1,5 +1,7 @@
 # pc_upsampling
-GC-PCU: Geometry-Consistent Point Cloud Upsampling
+**Point Cloud Upsampling via Perturbation Learning**
+
+
 by Dandan Ding, Chi Qiu and Zhigeng Pan
 
 Introduction: 
