@@ -12,10 +12,10 @@ For compling TF operators, please check tf_xxx_compile.sh under each op subfolde
 
 Evaluate the model: We've provided the pre-train model in folder ./model, so just run:
 
-'''
+```
 cd Code
 python main.py --phase test
-'''
+```
 
 You will see the output results in the folder ./result.
 
@@ -24,4 +24,4 @@ Besides we also provide a python script in folder ./supplement which put our mod
 If you want to train the model please download the training dataset from [GoogleDrive](https://drive.google.com/file/d/17aZ9pRi2eqgCIfj-JWA8RPzK2trHzrAd/view?usp=sharing).
 
 
-More questions please contact <qiuchi@stu.hznu.edu.cn>
+More questions please contact <qiuchi@stu.hznu.edu.cn>.
