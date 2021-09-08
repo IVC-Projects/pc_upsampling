@@ -4,7 +4,7 @@
 
 by Dandan Ding, Chi Qiu and Zhigeng Pan
 
-##Introduction: 
+## Introduction: 
 This work is based on Tensorflow and the TF operators from PointNet++. Therefore, you need to install tensorflow and compile the TF operators.
 The code is tested under TF 1.11.0 and Python 3.5 on Ubuntu 16.04, higher verison should also work.
 
