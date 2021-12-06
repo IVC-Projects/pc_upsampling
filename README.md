@@ -1,6 +1,6 @@
 # **Point Cloud Upsampling via Perturbation Learning**
 
-by Dandan Ding, Chi Qiu and Zhigeng Pan
+by Dandan Ding, Chi Qiu, Fuchang Liu and Zhigeng Pan
 
 Our article has been published in <https://ieeexplore.ieee.org/document/9493165>, more supplementary information can refer to [GC-PCU supplementary information](https://drive.google.com/file/d/18hK_mcmRafjzmJ3w1ZM0LEkofP5XwP9X/view?usp=sharing).
 
