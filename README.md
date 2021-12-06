@@ -1,5 +1,5 @@
 # pc_upsampling
-**Point Cloud Upsampling via Perturbation Learning**
+## **Point Cloud Upsampling via Perturbation Learning**
 
 by Dandan Ding, Chi Qiu and Zhigeng Pan
 
