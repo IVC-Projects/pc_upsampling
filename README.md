@@ -1,6 +1,7 @@
 # pc_upsampling
 **Point Cloud Upsampling via Perturbation Learning**
 
+Our article has been published in <https://ieeexplore.ieee.org/document/9493165>, more supplementary information can refer to 
 
 by Dandan Ding, Chi Qiu and Zhigeng Pan
 
